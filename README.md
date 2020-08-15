@@ -8,7 +8,7 @@
 
 图例中的图标为 colorUI 框架自带的图标，读者也可以换成自己的图标，修改组件源码中的这段代码即可
 <pre>
-<text class="cuIcon-{{open ? 'fold' : 'unfold'}}"></text>
+ &lt;text class="cuIcon-{{open ? 'fold' : 'unfold'}}"&gt;&lt;/text&gt;
 </pre>
 
 列表数据格式为：
