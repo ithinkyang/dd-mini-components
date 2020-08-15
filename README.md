@@ -30,8 +30,12 @@
 ## 组件参数
 <pre>
 list: 菜单列表数据
+
 label: 显示的菜单 key 值，默认 'label'
+
 value: 菜单的id key 值，默认 'value'
+
 childrenkey: 下级菜单的 key 值，默认 'children'
+
 onSelect: 选中菜单后的回调函数，返回 { label: '', value: '' }
 </pre>
