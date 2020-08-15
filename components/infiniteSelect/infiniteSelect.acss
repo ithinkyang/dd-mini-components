@@ -1,0 +1,33 @@
+.bg-white {
+	background-color: #ffffff;
+	color: #666666;
+}
+.padding {
+	padding: 15px;
+}
+.flex {
+	display: flex;
+}
+.flex-sub {
+	flex: 1;
+}
+
+.flex-twice {
+	flex: 2;
+}
+
+.flex-treble {
+	flex: 3;
+}
+.text-right {
+	text-align: right;
+}
+.padding-right {
+	padding-right: 15px;
+}
+.padding-left {
+	padding-left: 15px;
+}
+.text-sm {
+	font-size: 12px;
+}
