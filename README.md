@@ -5,7 +5,14 @@
 ![image](https://suntree.oss-cn-shenzhen.aliyuncs.com/task/2020-08-15/202008151354371412606184656799214354.png?Expires=4751070877&OSSAccessKeyId=LTAIMjBIY4V53Cjy&Signature=GuoZepwmN3yO0WEj4auZKy4O%2B0c%3D)
 
 利用组件的递归调用来实现无限极分类的菜单。
-图例中列表数据格式为：
+
+图例中的图标为 colorUI 框架自带的图标，读者也可以换成自己的图标，修改组件源码中的这段代码即可
+<pre>
+<text class="cuIcon-{{open ? 'fold' : 'unfold'}}"></text>
+</pre>
+
+列表数据格式为：
+
 <pre>
 {
   kindID: 1,
