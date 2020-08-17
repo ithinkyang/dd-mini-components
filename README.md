@@ -2,7 +2,7 @@
 钉钉小程序无限极菜单组件
 
 
-![image](https://suntree.oss-cn-shenzhen.aliyuncs.com/task/2020-08-15/202008151354371412606184656799214354.png?Expires=4751070877&OSSAccessKeyId=LTAIMjBIY4V53Cjy&Signature=GuoZepwmN3yO0WEj4auZKy4O%2B0c%3D)
+![image](https://suntree.oss-cn-shenzhen.aliyuncs.com/task/2020-08-15/202008151354371412606184656799214354.png?)
 
 利用组件的递归调用来实现无限极分类的菜单。
 
